@@ -1,1 +1,1 @@
-worker1 python
+worker1 python avc.py
